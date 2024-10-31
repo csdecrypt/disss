@@ -1,0 +1,1141 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Client.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Client.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\audio\\398b5df4-5a23-4b2b-8e42-669778bf8475.wav",
+      "PackagePath": "staticwebassets\\audio\\398b5df4-5a23-4b2b-8e42-669778bf8475.wav"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\audio\\4bad6afc-8e0a-4db4-88ad-7db93bfc53c0.wav",
+      "PackagePath": "staticwebassets\\audio\\4bad6afc-8e0a-4db4-88ad-7db93bfc53c0.wav"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\audio\\57aeccb3-d70c-4ff6-a340-94cff45381d6.wav",
+      "PackagePath": "staticwebassets\\audio\\57aeccb3-d70c-4ff6-a340-94cff45381d6.wav"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\audio\\5dcba571-c766-44be-8654-643d292bd824.wav",
+      "PackagePath": "staticwebassets\\audio\\5dcba571-c766-44be-8654-643d292bd824.wav"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\audio\\9a43230d-ea0f-4f1c-9e7f-e0d23e054ce9.wav",
+      "PackagePath": "staticwebassets\\audio\\9a43230d-ea0f-4f1c-9e7f-e0d23e054ce9.wav"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\audio\\9ccadfa1-b186-45a4-a182-d12e45893e6c.wav",
+      "PackagePath": "staticwebassets\\audio\\9ccadfa1-b186-45a4-a182-d12e45893e6c.wav"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\audio\\c24b41b2-7f7c-4c5a-b1e8-297397297c79.wav",
+      "PackagePath": "staticwebassets\\audio\\c24b41b2-7f7c-4c5a-b1e8-297397297c79.wav"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\audio\\d4d7d987-d604-4f7f-a1e5-20b75ed758ae.wav",
+      "PackagePath": "staticwebassets\\audio\\d4d7d987-d604-4f7f-a1e5-20b75ed758ae.wav"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\audio\\e7d117d6-fe27-446d-8ecd-d07af28a292d.wav",
+      "PackagePath": "staticwebassets\\audio\\e7d117d6-fe27-446d-8ecd-d07af28a292d.wav"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\chat.js",
+      "PackagePath": "staticwebassets\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\abortcontroller.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\abortcontroller.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\abortcontroller.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\abortcontroller.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\accesstokenhttpclient.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\accesstokenhttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\accesstokenhttpclient.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\accesstokenhttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\browser-index.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\browser-index.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\browser-index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\defaulthttpclient.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\defaulthttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\defaulthttpclient.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\defaulthttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\defaultreconnectpolicy.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\defaultreconnectpolicy.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\defaultreconnectpolicy.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\defaultreconnectpolicy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\errors.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\errors.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\errors.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\errors.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\fetchhttpclient.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\fetchhttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\fetchhttpclient.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\fetchhttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\handshakeprotocol.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\handshakeprotocol.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\handshakeprotocol.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\handshakeprotocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\headernames.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\headernames.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\headernames.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\headernames.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\httpclient.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\httpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\httpclient.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\httpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\httpconnection.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\httpconnection.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\httpconnection.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\httpconnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\hubconnection.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\hubconnection.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\hubconnection.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\hubconnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\hubconnectionbuilder.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\hubconnectionbuilder.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\hubconnectionbuilder.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\hubconnectionbuilder.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\iconnection.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\iconnection.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\iconnection.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\iconnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\ihttpconnectionoptions.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\ihttpconnectionoptions.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\ihttpconnectionoptions.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\ihttpconnectionoptions.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\ihubprotocol.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\ihubprotocol.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\ihubprotocol.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\ihubprotocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\ilogger.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\ilogger.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\ilogger.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\ilogger.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\index.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\index.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\iretrypolicy.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\iretrypolicy.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\iretrypolicy.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\iretrypolicy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\istatefulreconnectoptions.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\istatefulreconnectoptions.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\istatefulreconnectoptions.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\istatefulreconnectoptions.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\itransport.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\itransport.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\itransport.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\itransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\jsonhubprotocol.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\jsonhubprotocol.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\jsonhubprotocol.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\jsonhubprotocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\loggers.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\loggers.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\loggers.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\loggers.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\longpollingtransport.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\longpollingtransport.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\longpollingtransport.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\longpollingtransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\messagebuffer.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\messagebuffer.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\messagebuffer.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\messagebuffer.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\polyfills.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\polyfills.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\polyfills.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\polyfills.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\serversenteventstransport.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\serversenteventstransport.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\serversenteventstransport.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\serversenteventstransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\stream.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\stream.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\stream.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\stream.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\subject.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\subject.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\subject.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\subject.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\textmessageformat.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\textmessageformat.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\textmessageformat.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\textmessageformat.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\utils.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\utils.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\utils.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\websockettransport.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\websockettransport.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\websockettransport.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\websockettransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\xhrhttpclient.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\xhrhttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\cjs\\xhrhttpclient.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\cjs\\xhrhttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\abortcontroller.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\abortcontroller.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\abortcontroller.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\abortcontroller.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\abortcontroller.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\abortcontroller.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\accesstokenhttpclient.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\accesstokenhttpclient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\accesstokenhttpclient.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\accesstokenhttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\accesstokenhttpclient.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\accesstokenhttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\browser-index.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\browser-index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\browser-index.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\browser-index.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\browser-index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\defaulthttpclient.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\defaulthttpclient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\defaulthttpclient.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\defaulthttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\defaulthttpclient.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\defaulthttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\defaultreconnectpolicy.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\defaultreconnectpolicy.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\defaultreconnectpolicy.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\defaultreconnectpolicy.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\defaultreconnectpolicy.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\defaultreconnectpolicy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\errors.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\errors.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\errors.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\errors.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\errors.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\errors.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\fetchhttpclient.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\fetchhttpclient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\fetchhttpclient.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\fetchhttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\fetchhttpclient.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\fetchhttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\handshakeprotocol.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\handshakeprotocol.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\handshakeprotocol.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\handshakeprotocol.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\handshakeprotocol.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\handshakeprotocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\headernames.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\headernames.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\headernames.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\headernames.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\headernames.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\headernames.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\httpclient.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\httpclient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\httpclient.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\httpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\httpclient.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\httpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\httpconnection.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\httpconnection.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\httpconnection.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\httpconnection.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\httpconnection.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\httpconnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\hubconnection.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\hubconnection.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\hubconnection.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\hubconnection.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\hubconnection.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\hubconnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\hubconnectionbuilder.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\hubconnectionbuilder.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\hubconnectionbuilder.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\hubconnectionbuilder.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\hubconnectionbuilder.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\hubconnectionbuilder.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\iconnection.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\iconnection.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\iconnection.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\iconnection.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\iconnection.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\iconnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\ihttpconnectionoptions.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\ihttpconnectionoptions.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\ihttpconnectionoptions.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\ihttpconnectionoptions.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\ihttpconnectionoptions.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\ihttpconnectionoptions.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\ihubprotocol.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\ihubprotocol.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\ihubprotocol.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\ihubprotocol.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\ihubprotocol.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\ihubprotocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\ilogger.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\ilogger.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\ilogger.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\ilogger.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\ilogger.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\ilogger.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\index.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\index.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\index.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\iretrypolicy.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\iretrypolicy.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\iretrypolicy.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\iretrypolicy.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\iretrypolicy.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\iretrypolicy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\istatefulreconnectoptions.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\istatefulreconnectoptions.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\istatefulreconnectoptions.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\istatefulreconnectoptions.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\istatefulreconnectoptions.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\istatefulreconnectoptions.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\itransport.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\itransport.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\itransport.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\itransport.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\itransport.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\itransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\jsonhubprotocol.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\jsonhubprotocol.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\jsonhubprotocol.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\jsonhubprotocol.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\jsonhubprotocol.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\jsonhubprotocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\loggers.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\loggers.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\loggers.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\loggers.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\loggers.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\loggers.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\longpollingtransport.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\longpollingtransport.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\longpollingtransport.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\longpollingtransport.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\longpollingtransport.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\longpollingtransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\messagebuffer.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\messagebuffer.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\messagebuffer.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\messagebuffer.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\messagebuffer.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\messagebuffer.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\polyfills.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\polyfills.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\polyfills.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\polyfills.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\polyfills.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\polyfills.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\serversenteventstransport.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\serversenteventstransport.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\serversenteventstransport.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\serversenteventstransport.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\serversenteventstransport.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\serversenteventstransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\stream.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\stream.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\stream.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\stream.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\stream.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\stream.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\subject.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\subject.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\subject.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\subject.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\subject.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\subject.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\textmessageformat.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\textmessageformat.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\textmessageformat.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\textmessageformat.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\textmessageformat.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\textmessageformat.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\utils.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\utils.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\utils.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\utils.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\utils.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\websockettransport.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\websockettransport.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\websockettransport.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\websockettransport.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\websockettransport.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\websockettransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\xhrhttpclient.d.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\xhrhttpclient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\xhrhttpclient.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\xhrhttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\esm\\xhrhttpclient.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\esm\\xhrhttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\webworker\\signalr.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\webworker\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\webworker\\signalr.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\webworker\\signalr.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\webworker\\signalr.min.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\webworker\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\dist\\webworker\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\webworker\\signalr.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\package.json",
+      "PackagePath": "staticwebassets\\js\\signalr\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\readme.md",
+      "PackagePath": "staticwebassets\\js\\signalr\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\abortcontroller.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\abortcontroller.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\accesstokenhttpclient.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\accesstokenhttpclient.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\browser-index.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\browser-index.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\defaulthttpclient.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\defaulthttpclient.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\defaultreconnectpolicy.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\defaultreconnectpolicy.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\errors.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\errors.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\fetchhttpclient.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\fetchhttpclient.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\handshakeprotocol.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\handshakeprotocol.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\headernames.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\headernames.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\httpclient.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\httpclient.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\httpconnection.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\httpconnection.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\hubconnection.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\hubconnection.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\hubconnectionbuilder.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\hubconnectionbuilder.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\iconnection.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\iconnection.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\ihttpconnectionoptions.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\ihttpconnectionoptions.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\ihubprotocol.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\ihubprotocol.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\ilogger.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\ilogger.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\index.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\index.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\iretrypolicy.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\iretrypolicy.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\istatefulreconnectoptions.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\istatefulreconnectoptions.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\itransport.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\itransport.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\jsonhubprotocol.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\jsonhubprotocol.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\loggers.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\loggers.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\longpollingtransport.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\longpollingtransport.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\messagebuffer.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\messagebuffer.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\polyfills.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\polyfills.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\serversenteventstransport.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\serversenteventstransport.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\stream.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\stream.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\subject.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\subject.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\textmessageformat.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\textmessageformat.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\third-party-notices.txt",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\third-party-notices.txt"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\utils.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\utils.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\websockettransport.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\websockettransport.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\signalr\\src\\xhrhttpclient.ts",
+      "PackagePath": "staticwebassets\\js\\signalr\\src\\xhrhttpclient.ts"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\STUCC01\\source\\repos\\DisssOrchestration\\Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Client.props",
+      "PackagePath": "build\\Client.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Client.props",
+      "PackagePath": "buildMultiTargeting\\Client.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Client.props",
+      "PackagePath": "buildTransitive\\Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
