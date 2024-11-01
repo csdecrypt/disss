@@ -148,16 +148,16 @@ namespace DisssFunctions
             }
             catch (TimeoutException tEx)
             {
-                await eventGridPublisherClient.SendEventAsync(new SystemEvent($"Ran into timeout calling wisper wrapper {tEx.Message}"));
+                await eventGridPublisherClient.SendEventAsync(new SystemEvent($"Ran into timeout calling whisper wrapper {tEx.Message}"));
                 throw;
             }
             catch (HttpRequestException reqEx)
             {
-                await eventGridPublisherClient.SendEventAsync(new SystemEvent($"Ran into http exception calling wisper wrapper {reqEx.Message}"));
+                await eventGridPublisherClient.SendEventAsync(new SystemEvent($"Ran into http exception calling whisper wrapper {reqEx.Message}"));
                 throw;
             }
             catch (Exception ex) {
-                await eventGridPublisherClient.SendEventAsync(new SystemEvent($"Ran into generic exception calling wisper wrapper {ex.Message}"));
+                await eventGridPublisherClient.SendEventAsync(new SystemEvent($"Ran into generic exception calling whisper wrapper {ex.Message}"));
                 throw;
             }
             finally
