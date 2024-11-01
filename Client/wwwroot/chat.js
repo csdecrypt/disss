@@ -8,13 +8,46 @@
         console.log(message);
 
         if (message.type == "Transcribed") {
+            const messageList = document.getElementById('messageList');
             message.data.chunks.forEach((chunk) => {
-                const li = document.createElement("li");
-                li.textContent = `${chunk.text}`;
-                document.getElementById("messageList").appendChild(li);
+                messageList.innerHTML += chunk.text + '<br>'; 
+
             })
+            messageList.scrollTop = eventList.scrollHeight;
+        }
+        else if (message.type == "Matched") {
+            const eventList = document.getElementById('eventList');
+            message.data.forEach((match) => {
+                eventList.innerHTML += `Matched ${match.Keyword} with score: ${match.Score}` + '<br>';
+            })
+            eventList.scrollTop = eventList.scrollHeight;
+        }
+        else if (message.type == "SystemEvent") {
+            const eventList = document.getElementById('eventList');
+            eventList.innerHTML += message.data + '<br>'; 
+            eventList.scrollTop = eventList.scrollHeight;
+        }
+        else if (message.type == "PhotoFound") {
+            displayImage(message.data);
         }
     });
+    function displayImage(url) {
+        const img = document.getElementById('center-image');
+
+        // Remove the 'fade-out' class and set the new image source
+        img.classList.remove('fade-out');
+        img.src = url;
+
+        // Apply fade-out effect after a delay (so image is visible briefly before fading out)
+        setTimeout(() => {
+            img.classList.add('fade-out');
+        }, 3000); // Show the image for 1 second before fading out
+
+        // Once fade-out is complete, reset image src and fade-out class
+        img.addEventListener('transitionend', function handleTransitionEnd() {
+            img.removeEventListener('transitionend', handleTransitionEnd); // Clean up event listener
+        });
+    }
 
     let mediaRecorder;
     let isRecording = false;
