@@ -27,15 +27,18 @@ namespace Client.Controllers
 
             foreach (var cloudEvent in cloudEvents)
             {
-                switch (Enum.Parse(typeof(EventTypes), cloudEvent.Type))
-                {
-                    case EventTypes.Transcribed:
-                        await hubContext.Clients.All.SendAsync("EventGridMessage", cloudEvent);
-                        break;
+                await hubContext.Clients.All.SendAsync("EventGridMessage", cloudEvent);
 
-                    case EventTypes.Matched:
-                        break;
-                }
+                //switch (Enum.Parse(typeof(EventTypes), cloudEvent.Type))
+                //{
+                //    case EventTypes.Transcribed:
+                //        await hubContext.Clients.All.SendAsync("EventGridMessage", cloudEvent);
+                //        break;
+
+                //    case EventTypes.Matched:
+                //        await hubContext.Clients.All.SendAsync("EventGridMessage", cloudEvent);
+                //        break;
+                //}
             }
 
             return Ok();

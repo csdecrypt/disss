@@ -4,6 +4,8 @@ namespace Common
     public enum EventTypes
     {
         Transcribed,
-        Matched
+        Matched,
+        PhotoFound,
+        SystemEvent,
     }
 }
